@@ -1,6 +1,16 @@
 # 1.Datasets
 
+## ImageNet-1K
 
+Download ImageNet-1K train/val dataset from: https://www.image-net.org/
+
+## Places365
+
+Download Places365 dataset from http://places2.csail.mit.edu/download.html
+
+## ADE20K
+
+Download ADE20K dataset from https://ade20k.csail.mit.edu/
 
 
 
