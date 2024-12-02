@@ -1,4 +1,4 @@
-# A Multi-Masked Autoencoder with Positional Offset Encoding for Enhanced Graphical Image Reconstruction
+# Bridging Vision and Graphics through Multi-Masked Autoencoders for Enhanced Image Reconstruction
 
 We propose a multi-masked autoencoder (M-MAE) that employs a combination of patch-average-based masking and random masking. Furthermore, we introduce a scaling layer named LScale to improve training dynamics and incorporate a position encoding offset method to generate more efficient position codes. 
 
